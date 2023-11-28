@@ -1,0 +1,2 @@
+{"modelRealDatas":[{"bay":"114278840544527079","changeType":"add","devDesc":"DIS1023","devName":"DIS1023","devType":"DIS","devTypeDesc":"刀闸","id":"114841790498048978","psrId":"","region":"徐州","station":"113997365567816267","stationPsrId":"","voltageLevel":"110kV"}]}
+{"modelRealDatas":[{"bay":"114278840544527079","changeType":"add","devDesc":"DIS1023","devName":"DIS1023","devType":"DIS","devTypeDesc":"刀闸","id":"114841790498048978","psrId":"","region":"徐州","station":"113997365567816267","stationPsrId":"","voltageLevel":"110kV"}]}
